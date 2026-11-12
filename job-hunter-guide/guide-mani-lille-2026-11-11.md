@@ -21,7 +21,9 @@ CV (نسخه متناسب) | پاسپورت | titre de séjour | attestation d'i
 ## ۲) E.Leclerc Lille Fives — CDI étudiant ۱۲h (فقط شنیه+یکشنبه) — اولویت خیلی بالا
 - APPLY: https://www.recrutement.leclerc/parcourir-nos-offres/
 - APPLY (Espace Candidat — ساخت حساب و suivi): https://www.recrutement.leclerc/espace-candidat/
-- APPLY (نمونه offre مستقیم Lille Fives): https://www.recrutement.leclerc/detail-offre/boulanger-lille-fives-h-f-2564355/
+- APPLY (صفحه magasin رسمی Leclerc — candidature spontanée): https://www.recrutement.leclerc/magasins/e-leclerc-lille/
+- APPLY (جستجوی زنده در Indeed — عبارت «Leclerc Lille Fives CDI étudiant 12h»): https://fr.indeed.com/q-leclerc-l-lille-(59)-emplois.html
+- هشدار: لینک detail-offre/.../boulanger-lille-fives-h-f-2564355 در ۱۲/¹¹/۲۰۲۶ «lien ne fonctionne plus» شده؛ اما خود آگهی همچنان فعال است (CDI étudiant ۱۲h، فقط شنبه+یکشنبه، rayon boulangerie-viennoiserie / fruits-légumes)
 - magasin: https://www.e.leclerc/mag/e-leclerc-lille — 94 rue de Lannoy, 59800 Lille — tel 03.20.61.76.17 (حضوری با CV هم OK)
 - rayon: boulangerie-viennoiserie / fruits-légumes | فقط week-end = کاملاً سازگار با برنامه
 - CV: سوپرمارکت | ~۳٫۵-۴ km (tram + correspondance؛ تأیید در ilévia)
